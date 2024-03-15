@@ -1,6 +1,6 @@
 #You should consider scan number 1298 and peptide sequence TYDSYLGDDYVR
-#given peptide sequence, you're given x-axis and match against peaks. decide
-#if they have a matching fragment and annotate!
+#Match against spectra from a given peptide sequence
+
 
 import xml.etree.ElementTree as ET
 import gzip
